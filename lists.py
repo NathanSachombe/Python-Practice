@@ -4,12 +4,12 @@ friends = ["Alex", "Gabriel", "Nancy", "Grace", "Jane", "Ashley", "Alex"] # Maki
 lucky_numbers = [4, 38, 15, 16, 23, 15]
 fruits = ["apple", "banana", "orange"]
 
-#print(friends[0]) # Accessing a specific element in the list using index
-#print(friends[-1]) # Accessing a specific element in the list using index from the last position
-#print(friends[1:3]) # Accessing elements in a range
+print(friends[0]) # Accessing a specific element in the list using index
+print(friends[-1]) # Accessing a specific element in the list using index from the last position
+print(friends[1:3]) # Accessing elements in a range
 
-#friends[1] = "Pauline" # Modifying elemets in a list
-#print(friends)
+friends[1] = "Pauline" # Modifying elemets in a list
+print(friends)
 
 # 2. List functions
 
