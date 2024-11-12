@@ -1,4 +1,4 @@
-from oop import Student
+from OOP.oop import Student
 
 student1 = Student("Jim", "Business", 3.1)
 student2 = Student("Lisa", "Art", 3.8)
