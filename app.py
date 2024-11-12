@@ -1,7 +1,7 @@
 from oop import Student
 
-student1 = Student("Jim", "Business", 3.1, False)
-student2 = Student("Lisa", "Art", 2.1, True)
+student1 = Student("Jim", "Business", 3.1)
+student2 = Student("Lisa", "Art", 3.8)
 
-print(student1.gpa)
-print(student2.is_on_probation)
+print(student1.on_honor_roll())
+print(student2.on_honor_roll())
